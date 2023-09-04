@@ -1,0 +1,25 @@
+#h1{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 10px;
+    justify-content: center;
+
+ 
+    
+}
+
+.div1{
+    background-color: rgb(44, 39, 39);
+  padding-top: 2px;
+  padding-bottom: 2px;
+
+   
+ }
+
+#l2:hover{
+    cursor: pointer;
+}
+#fo{
+    margin-top: 50px;
+    padding-top: 40px;
+}

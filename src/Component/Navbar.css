@@ -1,0 +1,25 @@
+
+#idco{
+   
+    float:right;
+   list-style: none;
+   margin-left: 10px;
+    
+ 
+
+}
+#idco :hover{
+    cursor: pointer;
+}
+
+
+.list{
+   
+    justify-content: center;
+    list-style: none;
+    text-align: center;
+    font-size: 3em;
+    font-style: oblique;
+    
+    
+}
