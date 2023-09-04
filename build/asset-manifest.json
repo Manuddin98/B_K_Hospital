@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/B_K_Hospital/static/css/main.f93b342f.css",
+    "main.js": "/B_K_Hospital/static/js/main.994f0355.js",
+    "static/js/787.4e2e8d2d.chunk.js": "/B_K_Hospital/static/js/787.4e2e8d2d.chunk.js",
+    "static/media/Ambu.jpg": "/B_K_Hospital/static/media/Ambu.e9a9928c9195cd5c138c.jpg",
+    "static/media/Heart.jpg": "/B_K_Hospital/static/media/Heart.e58a7b5316181d5dd079.jpg",
+    "static/media/Pain.jpg": "/B_K_Hospital/static/media/Pain.048d06919cb9c7770339.jpg",
+    "static/media/Bone.jpg": "/B_K_Hospital/static/media/Bone.ac4b25f71bdf4a4db64a.jpg",
+    "static/media/Hostp1.jpg": "/B_K_Hospital/static/media/Hostp1.cf9eb2f7ae8cd44488a9.jpg",
+    "static/media/Doct1.jpg": "/B_K_Hospital/static/media/Doct1.0d85ba0938184dae4b9a.jpg",
+    "static/media/AboutHostp.jpg": "/B_K_Hospital/static/media/AboutHostp.42c29b00612544766448.jpg",
+    "static/media/Fac4.jpg": "/B_K_Hospital/static/media/Fac4.e82d9185e9e8aadbc28f.jpg",
+    "static/media/dentist.jpg": "/B_K_Hospital/static/media/dentist.028b21ffa9912bc5d956.jpg",
+    "static/media/other.jpg": "/B_K_Hospital/static/media/other.6adcd5437571a325c12b.jpg",
+    "static/media/Hostp2.jpg": "/B_K_Hospital/static/media/Hostp2.d7adf955f8ccacbe5f19.jpg",
+    "static/media/Fac2.jpg": "/B_K_Hospital/static/media/Fac2.6d403a6d94bf891ecd94.jpg",
+    "static/media/Hostp3.jpg": "/B_K_Hospital/static/media/Hostp3.74f893bbc599e786922c.jpg",
+    "static/media/Fac3.jpg": "/B_K_Hospital/static/media/Fac3.7f1d1f2981fe0c03c12a.jpg",
+    "static/media/Fac1.jpg": "/B_K_Hospital/static/media/Fac1.6296d5fc8427edc33929.jpg",
+    "static/media/Doct2.jpg": "/B_K_Hospital/static/media/Doct2.8126c99cb2c4e90e2e51.jpg",
+    "index.html": "/B_K_Hospital/index.html",
+    "main.f93b342f.css.map": "/B_K_Hospital/static/css/main.f93b342f.css.map",
+    "main.994f0355.js.map": "/B_K_Hospital/static/js/main.994f0355.js.map",
+    "787.4e2e8d2d.chunk.js.map": "/B_K_Hospital/static/js/787.4e2e8d2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f93b342f.css",
+    "static/js/main.994f0355.js"
+  ]
+}

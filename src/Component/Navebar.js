@@ -1,5 +1,6 @@
 import React from 'react'
 import './Navbar.css'
+import {Link} from 'react-router-dom';
 
 const Navebar = () => {
   return (
@@ -38,28 +39,29 @@ const Navebar = () => {
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href='/'>Home <span class="sr-only">(current)</span></a>
+        <Link class="nav-link" to={'/'}>Home <span class="sr-only">(current)</span></Link>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href='/Service'>Service</a>
+      <Link class="nav-link" to={'/Service'}>Service</Link>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle"href='/Staff' id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Staff
         </a>
         <div class="dropdown-menu red" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href='/Department'>Department</a>
-          <a class="dropdown-item" href='/Doctor'>Doctor</a>
+        <Link class="dropdown-item" to={'/Department'}>Department</Link>
+          <Link class="dropdown-item" to={'/Doctor'}>Doctor</Link>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href='/Ambulance'>Ambulance</a>
+          <Link class="dropdown-item" to={'/Ambulance'}>Ambulance</Link>
+         
         </div>
       </li>
 
       <li class="nav-item">
-        <a class="nav-link" href='/About'>About</a>
+      <Link class="nav-link" to={'/About'}>About</Link>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href='/Career'>Career</a>
+      <Link class="nav-link" to={'/Career'}>Career</Link>
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
