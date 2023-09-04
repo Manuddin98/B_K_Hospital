@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/B_K_Hospital/static/css/main.f93b342f.css",
-    "main.js": "/B_K_Hospital/static/js/main.994f0355.js",
+    "main.js": "/B_K_Hospital/static/js/main.91ba18bc.js",
     "static/js/787.4e2e8d2d.chunk.js": "/B_K_Hospital/static/js/787.4e2e8d2d.chunk.js",
     "static/media/Ambu.jpg": "/B_K_Hospital/static/media/Ambu.e9a9928c9195cd5c138c.jpg",
     "static/media/Heart.jpg": "/B_K_Hospital/static/media/Heart.e58a7b5316181d5dd079.jpg",
@@ -21,11 +21,11 @@
     "static/media/Doct2.jpg": "/B_K_Hospital/static/media/Doct2.8126c99cb2c4e90e2e51.jpg",
     "index.html": "/B_K_Hospital/index.html",
     "main.f93b342f.css.map": "/B_K_Hospital/static/css/main.f93b342f.css.map",
-    "main.994f0355.js.map": "/B_K_Hospital/static/js/main.994f0355.js.map",
+    "main.91ba18bc.js.map": "/B_K_Hospital/static/js/main.91ba18bc.js.map",
     "787.4e2e8d2d.chunk.js.map": "/B_K_Hospital/static/js/787.4e2e8d2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f93b342f.css",
-    "static/js/main.994f0355.js"
+    "static/js/main.91ba18bc.js"
   ]
 }
