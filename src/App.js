@@ -35,7 +35,7 @@ function App() {
           <Route  path='/Doctor' element={<Doctor/>}></Route>
           <Route  path='/Ambulance' element={<Ambulance/>}></Route>
 
-          <Route  path='/*' element={<Home/>}></Route>
+          <Route  path='*' element={<Home/>}></Route>
 
           
         </Routes>
