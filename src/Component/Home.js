@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <div>
 
-h1
+
      <Caro1/>
      <AfterCaro/>
      <AfterCaro2/>

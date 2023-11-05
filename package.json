@@ -1,5 +1,4 @@
 {
-  "homepage":"https://Manuddin98.github.io/B_K_Hospital",
   "name": "b-company",
   
   "version": "0.1.0",
@@ -44,11 +43,7 @@
   },
   
   "scripts": {
-  
-    "predeploy":"npm run build",
-
-    "deploy":"gh-pages -d build",
-    
+      
   "start": "react-scripts start",
   
     
